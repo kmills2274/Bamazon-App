@@ -1,5 +1,7 @@
 # Bamazon-App
 
+**** See Screenshots folder for images of app functionality ****
+
 Assignment Instructions:
 
 ### Challenge #1: Customer View
